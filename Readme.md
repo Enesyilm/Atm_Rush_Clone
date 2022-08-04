@@ -11,6 +11,7 @@ Diagramı oluştururken bazı eksik durumları oyunun yapım esnasında tekrar d
 Genel kod mimarisi üzerine öğrendiğimiz gelişmeleri bu oyunda kullanarak diğer kodlara olan bağımlılığı en aza indirgeyecek senaryoları oluşturarak 
 oyunumuzda temel olarak Observer Pattern'i kullandık. Bununla birlikte Command Pattern, Scriptable Object, Facade Pattern, Singleton gibi yapılardan da yararlanarak
 daha anlaşılır ve düzgün bir kod yapısı oluşturduk.
+## Oynanış
 ![ATmRushGamePlay](https://user-images.githubusercontent.com/76806086/182844698-6b5e4e0b-68bd-46da-b014-22393a04e234.gif)
 
 
